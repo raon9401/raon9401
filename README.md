@@ -2,6 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raon9401&show_icons=true&theme=cobalt )
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raon9401&layout=compact&theme=algolia)
 <!--
 **raon9401/raon9401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
