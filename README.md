@@ -1,7 +1,6 @@
 ### 안녕하세요 프론트엔드 개발자 정희찬입니다 👋
 
 <div align="">
-  <img align='' src="https://github-readme-stats.vercel.app/api?username=raon9401&show_icons=true&theme=cobalt" >
   <img align='' src="https://github-readme-stats.vercel.app/api/top-langs/?username=raon9401&layout=compact&theme=algolia"> 
 </div>
 
